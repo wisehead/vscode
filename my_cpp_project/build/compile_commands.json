@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chenhui/github/my_cpp_project/build",
+  "command": "/usr/bin/g++  -I/home/chenhui/github/my_cpp_project/include -g -g -O0 -o CMakeFiles/my_program.dir/src/main.cpp.o -c /home/chenhui/github/my_cpp_project/src/main.cpp",
+  "file": "/home/chenhui/github/my_cpp_project/src/main.cpp"
+}
+]

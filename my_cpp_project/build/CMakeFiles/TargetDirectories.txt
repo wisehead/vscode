@@ -1,0 +1,3 @@
+/home/chenhui/github/my_cpp_project/build/CMakeFiles/my_program.dir
+/home/chenhui/github/my_cpp_project/build/CMakeFiles/edit_cache.dir
+/home/chenhui/github/my_cpp_project/build/CMakeFiles/rebuild_cache.dir
